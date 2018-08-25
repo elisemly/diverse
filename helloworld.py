@@ -7,4 +7,4 @@ else:
 
 hola = input("Que pasa senooooor \n")
 
-print("Despacito, quiero respirar tu cuello despacito ")
+print("Uno dos tres, uno dos tres noe pa spansk hablo no espannoool")
